@@ -11,8 +11,8 @@
 
 ## نصب و راه‌اندازی
 اپلیکیشن را می‌توانید از لینک‌های زیر دانلود کنید:
-- [Google Play](https://play.google.com/store/apps/details?id=com.speakupai.app)
-- [بازار](https://cafebazaar.ir/app/com.speakupai.app)
+- [Google Play](https://play.google.com/store/apps/details?id=fa.speakup.ai)
+- [بازار](https://cafebazaar.ir/app/fa.speakup.ai)
 
 ## راهنمای استفاده
 - برای استفاده از امکانات پیشرفته‌تر، می‌توانید اشتراک پریمیوم تهیه کنید.
